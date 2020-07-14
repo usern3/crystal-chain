@@ -1,0 +1,10 @@
+version: 2.0
+shards:
+  digest+:
+    git: https://github.com/chris-huxtable/digest-plus.cr.git
+    version: 0.1.0+git.commit.afca43eaf7182211033502fbff561492a2904855
+
+  openssl_ext:
+    git: https://github.com/randomstate/openssl_ext.git
+    version: 0.1.2
+
