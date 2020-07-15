@@ -13,9 +13,6 @@ crystal: 0.35.1
 license: MIT
 
 dependencies:
-  openssl_ext:
-    github: randomstate/openssl_ext
-  digest+:
-    github: chris-huxtable/digest-plus.cr
   kemal:
     github: kemalcr/kemal
+    branch: master

@@ -2,8 +2,7 @@ require "kemal"
 require "./crystal_chain"
 require "uuid"
 require "json"
-require "gzip"
-require "flate"
+
   # Generate a globally unique address for this node
   node_identifier = UUID.random.to_s
 
