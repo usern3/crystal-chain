@@ -16,3 +16,7 @@ shards:
     git: https://github.com/luislavena/radix.git
     version: 0.3.9
 
+  spec-kemal:
+    git: https://github.com/kemalcr/spec-kemal.git
+    version: 0.5.0+git.commit.64b89c719234ceb92c0a14762dce3afc6257fffc
+
